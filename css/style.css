@@ -20,6 +20,8 @@ header > img {
     margin-left: 20%;
 }
 
+
+
 /* main */
 
 address{
@@ -35,6 +37,22 @@ address a {
     text-decoration: none;
     color: blue;
 }
+
+figure{
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+.description {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.important {
+    background-color: yellow;
+}
+
+
 
 /* container */
 
