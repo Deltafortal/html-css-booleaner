@@ -77,6 +77,31 @@ tbody {
     background-color: white;
 }
 
+/* footer */
+
+footer > h3 {
+    color: gray;
+}
+
+footer {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#monitor {
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 15px;
+}
+
+#graph{
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/graph.jpg);
+}
+
 
 /* container */
 
