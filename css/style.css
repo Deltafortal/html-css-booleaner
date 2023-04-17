@@ -35,7 +35,7 @@ address{
 
 address a {
     text-decoration: none;
-    color: blue;
+    color: rgb(53, 109, 192);
 }
 
 figure{
@@ -60,6 +60,22 @@ ul{
     padding-left: 15px;
 }
 
+/* Table */
+
+th {
+    width: 500px;
+    text-align: left;
+    color:white;
+    background-color: rgb(53, 109, 192);
+}
+
+tbody {
+    background-color: lightblue;
+}
+
+.style {
+    background-color: white;
+}
 
 
 /* container */
