@@ -20,6 +20,22 @@ header > img {
     margin-left: 20%;
 }
 
+/* main */
+
+address{
+    color: gray;
+}
+
+
+.author{
+    font-size: 26px;
+}
+
+address a {
+    text-decoration: none;
+    color: blue;
+}
+
 /* container */
 
 .container {
